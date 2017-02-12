@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Project#3</string>
+    <string-array name="Hotel_Names">
+        <item>Elysian</item>
+        <item>Four Seasons</item>
+        <item>Langham</item>
+        <item>Peninsula</item>
+        <item>Ritz-Carlton</item>
+        <item>Waldorf Astoria</item>
+    </string-array>
+    <string-array name="Hotel_Address">
+        <item>11 E Walton St, Chicago, IL 60611</item>
+        <item>120 E Delaware Pl, Chicago, IL 60611</item>
+        <item>330 N Wabash Ave, Chicago, IL 60611</item>
+        <item>108 E Superior St, Chicago, IL 60611</item>
+        <item>160 E Pearson St, Chicago, IL 60611</item>
+        <item>11 E Walton St, Chicago, IL 60611</item>
+    </string-array>
+    <string-array name="Restaurant_Names">
+        <item>Leña Brava</item>
+        <item>Giant</item>
+        <item>Duck Duck Goat</item>
+        <item>Roister</item>
+        <item>Smyth</item>
+        <item>Coda Di Volpe</item>
+    </string-array>
+    <string-array name="Restaurant_Address">
+        <item>900 W Randolph St, Chicago, IL 60607</item>
+        <item>3209 W Armitage Ave, Chicago, IL 60647</item>
+        <item>857 W Fulton Market, Chicago, IL 60607</item>
+        <item>951 W Fulton Market, Chicago, IL 60607</item>
+        <item>177 N Ada St #101, Chicago, IL 60607</item>
+        <item>3335 N Southport Ave, Chicago, IL 60657</item>
+    </string-array>
+</resources>
